@@ -60,8 +60,11 @@ See [CONTRIBUTING.md](CONTRIBUTING.md)
 ## Datasets
 - [CDP](https://data.cdp.net/browse) - Datasets made available by the Climate Disclosure Project.
 - [Climate Watch](https://www.climatewatchdata.org/) - Data, visualizations and resources to gather insights on national and global progress on climate change made available by the World Resources Institute.
+- [DitchCarbon](https://docs.ditchcarbon.com/) - Access to emissions scores, profiles and reccommended actions for all companies
 - [Open Climate Data](https://openclimatedata.net/) - A collection of datasets from different institutes and organisations.
+- [SBTI API](https://ditchcarbon.com/free-sbti-api-access/) - API access for "companies taking action" with Science Based Targets Initiative
 - [Subak](https://data.subak.org/) - An initiative by the Subak organisation to make climate data more discoverable; more trusted; and more connected.
+
 
 ## Communication
 - [Real Climate](https://www.realclimate.org/) - Climate science blog by real climate scientists.
